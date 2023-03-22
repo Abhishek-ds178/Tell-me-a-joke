@@ -1,0 +1,26 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1{
+  text-align: center;
+  color: red;
+  padding: 50px;
+  font-family: 'Amatic SC', cursive;
+  
+}
+#joke{
+  border: 3px solid black ;
+  margin: 50px;
+  background: yellow;
+}
+
+button{
+  text-align: center;
+  height: 80px;
+  width: 280px;
+  
+}
+button,#but{
+  font-size: 1.3rem;
+}
